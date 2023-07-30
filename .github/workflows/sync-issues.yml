@@ -1,7 +1,6 @@
 name: Sync Issues
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - development
